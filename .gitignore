@@ -1,0 +1,32 @@
+# Node modules (both frontend & backend)
+**/node_modules/
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# Build folders
+dist/
+build/
+.next/
+out/
+
+# OS-specific files (Mac)
+.DS_Store
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional (if using)
+*.pyc
+__pycache__
